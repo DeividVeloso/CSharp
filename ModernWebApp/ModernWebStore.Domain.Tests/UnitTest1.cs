@@ -13,6 +13,8 @@ namespace ModernWebStore.Domain.Tests
             var category = new Category("Placa Mãe");
             var product = new Product("Processador", "Intel I7", 1200, 5, 1);
 
+            var order = new Order();
+            order.OrderItems.Add(new OrderItem());
         }
     }
 }
