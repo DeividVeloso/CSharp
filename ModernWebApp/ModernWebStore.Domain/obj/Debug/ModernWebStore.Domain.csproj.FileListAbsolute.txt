@@ -3,3 +3,8 @@ C:\Users\dveloso\Desktop\Estudo\CSharp\ModernWebApps\ModernWebApp\ModernWebStore
 C:\Users\dveloso\Desktop\Estudo\CSharp\ModernWebApps\ModernWebApp\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.csprojResolveAssemblyReference.cache
 C:\Users\dveloso\Desktop\Estudo\CSharp\ModernWebApps\ModernWebApp\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.dll
 C:\Users\dveloso\Desktop\Estudo\CSharp\ModernWebApps\ModernWebApp\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.pdb
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.dll
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.pdb
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\bin\Debug\ModernWebStore.Domain.dll
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\bin\Debug\ModernWebStore.Domain.pdb
