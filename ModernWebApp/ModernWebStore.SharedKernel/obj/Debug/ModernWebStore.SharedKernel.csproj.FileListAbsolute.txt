@@ -1,0 +1,5 @@
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.SharedKernel\obj\Debug\ModernWebStore.SharedKernel.csprojResolveAssemblyReference.cache
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.SharedKernel\bin\Debug\ModernWebStore.SharedKernel.dll
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.SharedKernel\bin\Debug\ModernWebStore.SharedKernel.pdb
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.SharedKernel\obj\Debug\ModernWebStore.SharedKernel.dll
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.SharedKernel\obj\Debug\ModernWebStore.SharedKernel.pdb

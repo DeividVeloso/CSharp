@@ -8,3 +8,5 @@ C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\obj\Deb
 C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.pdb
 C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\bin\Debug\ModernWebStore.Domain.dll
 C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\bin\Debug\ModernWebStore.Domain.pdb
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\bin\Debug\ModernWebStore.SharedKernel.dll
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain\bin\Debug\ModernWebStore.SharedKernel.pdb

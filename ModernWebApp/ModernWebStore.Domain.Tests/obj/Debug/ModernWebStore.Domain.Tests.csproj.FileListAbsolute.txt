@@ -12,3 +12,5 @@ C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain.Tests\b
 C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain.Tests\obj\Debug\ModernWebStore.Domain.Tests.csprojResolveAssemblyReference.cache
 C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain.Tests\obj\Debug\ModernWebStore.Domain.Tests.dll
 C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain.Tests\obj\Debug\ModernWebStore.Domain.Tests.pdb
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain.Tests\bin\Debug\ModernWebStore.SharedKernel.dll
+C:\Users\deivi\Desktop\Estudos\CSharp\ModernWebApp\ModernWebStore.Domain.Tests\bin\Debug\ModernWebStore.SharedKernel.pdb
